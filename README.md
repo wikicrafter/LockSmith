@@ -1,3 +1,12 @@
+Expo Go
+___
+
+npx expo start
+
+eas build --platform android --profile preview
+
+___
+
 <p>This app is a <strong>Password Generator</strong> built with <strong>React Native</strong> and <strong>Expo</strong>, designed to generate secure and customizable passwords. It offers a user-friendly interface where users can specify the password length, complexity, and quantity. Here’s a detailed overview of the app’s features, components, and technologies used:</p>
 <h3>Features</h3>
 <ol>
